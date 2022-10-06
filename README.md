@@ -5,7 +5,6 @@ The [map](https://public.tableau.com/app/profile/hayang.kim/viz/Alcoholconsumpti
 
 ![alt text](https://github.com/hkim369/DataViz/blob/main/Screen%20Shot%202022-10-06%20at%208.52.25%20AM.png?raw=true)
 
-##Monday
 
 About this Dataset
 
